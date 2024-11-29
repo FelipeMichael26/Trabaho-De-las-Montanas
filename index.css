@@ -1,3 +1,4 @@
+
 .btn{
 padding:  10px 8px;
 width: 50px;
@@ -18,3 +19,8 @@ transition: 1s;
     width: 100px;
     padding: 20px;
 }
+=======
+.ttitulo{color : red}
+
+.palagrafo{font-weight: bold;}
+
